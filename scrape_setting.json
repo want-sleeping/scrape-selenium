@@ -1,0 +1,11 @@
+{
+    "url":"Your url",
+    "class":"the class of the div you want to scrape",
+    "tag":"the tag you want to scrape",
+    "sub_tag":"the thing in the tag you want to print",
+    "start_page":"start page number",
+    "end_page":"end page number",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+}
